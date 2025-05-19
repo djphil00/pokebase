@@ -1,0 +1,562 @@
+{
+  "sv9-162_holo": {
+    "qty": 0,
+    "sale_price": 10.85,
+    "sales": [
+      {
+        "sold_price": 10.85,
+        "sold_date": "2025-04-30"
+      }
+    ]
+  },
+  "sv9-1_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-1_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-4_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-5_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-6_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-8_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-9_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-10_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-12_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-13_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-18_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-19_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-21_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-21_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-22_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-23_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-25_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-26_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-27_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-28_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-32_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-33_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-33_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-34_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-35_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-36_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-37_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-38_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-38_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-39_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-40_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-41_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-42_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-44_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-45_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-46_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-47_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-51_holo": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-52_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-54_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-54_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-55_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-55_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-57_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-58_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-61_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-62_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-62_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-63_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-66_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-68_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-69_holo": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-70_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-71_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-72_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-73_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-74_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-76_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-77_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-77_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-80_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-81_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-84_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-85_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-87_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-89_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-90_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-91_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-92_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-92_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-93_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-95_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-97_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-97_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-100_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-101_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-102_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-103_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-105_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-105_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-106_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-106_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-107_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-107_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-109_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-109_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-110_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-110_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-113_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-114_holo": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-117_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-118_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-121_holo": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-122_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-123_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-124_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-125_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-126_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-126_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-127_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-128_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-129_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-129_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-130_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-131_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-132_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-136_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-137_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-139_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-140_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-141_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-144_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-146_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-147_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-148_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-149_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-149_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-150_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-151_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-152_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-153_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-154_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-156_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-156_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-157_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-157_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-158_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-159_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-159_reverse": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv9-183_holo": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv8-35_normal": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv8-197_holo": {
+    "qty": 1,
+    "sale_price": 22.0
+  },
+  "sv8-130_holo": {
+    "qty": 0,
+    "sale_price": 0.0
+  },
+  "sv8-224_holo": {
+    "qty": 0,
+    "sale_price": 6.25,
+    "sales": [
+      {
+        "sold_price": 6.25,
+        "sold_date": "2025-04-30"
+      }
+    ]
+  },
+  "sv8-143_normal": {
+    "qty": 0,
+    "sale_price": null
+  },
+  "sv8pt5-75_holo": {
+    "qty": 1,
+    "sale_price": 12.0
+  }
+}
